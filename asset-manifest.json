@@ -1,15 +1,15 @@
 {
-  "main.css": "/sunrxs/static/css/main.59cc04a7.chunk.css",
-  "main.js": "/sunrxs/static/js/main.da2193b9.chunk.js",
-  "main.js.map": "/sunrxs/static/js/main.da2193b9.chunk.js.map",
-  "static/css/1.162637eb.chunk.css": "/sunrxs/static/css/1.162637eb.chunk.css",
-  "static/js/1.4595a8a8.chunk.js": "/sunrxs/static/js/1.4595a8a8.chunk.js",
-  "static/js/1.4595a8a8.chunk.js.map": "/sunrxs/static/js/1.4595a8a8.chunk.js.map",
-  "runtime~main.js": "/sunrxs/static/js/runtime~main.2684ad12.js",
-  "runtime~main.js.map": "/sunrxs/static/js/runtime~main.2684ad12.js.map",
-  "static/css/1.162637eb.chunk.css.map": "/sunrxs/static/css/1.162637eb.chunk.css.map",
-  "static/css/main.59cc04a7.chunk.css.map": "/sunrxs/static/css/main.59cc04a7.chunk.css.map",
-  "index.html": "/sunrxs/index.html",
-  "precache-manifest.f65c60913faa4d9960766f0a8d965769.js": "/sunrxs/precache-manifest.f65c60913faa4d9960766f0a8d965769.js",
-  "service-worker.js": "/sunrxs/service-worker.js"
+  "main.css": "/SUNRXS/static/css/main.59cc04a7.chunk.css",
+  "main.js": "/SUNRXS/static/js/main.fce65c75.chunk.js",
+  "main.js.map": "/SUNRXS/static/js/main.fce65c75.chunk.js.map",
+  "static/css/1.162637eb.chunk.css": "/SUNRXS/static/css/1.162637eb.chunk.css",
+  "static/js/1.690c9dac.chunk.js": "/SUNRXS/static/js/1.690c9dac.chunk.js",
+  "static/js/1.690c9dac.chunk.js.map": "/SUNRXS/static/js/1.690c9dac.chunk.js.map",
+  "runtime~main.js": "/SUNRXS/static/js/runtime~main.0e716f53.js",
+  "runtime~main.js.map": "/SUNRXS/static/js/runtime~main.0e716f53.js.map",
+  "static/css/1.162637eb.chunk.css.map": "/SUNRXS/static/css/1.162637eb.chunk.css.map",
+  "static/css/main.59cc04a7.chunk.css.map": "/SUNRXS/static/css/main.59cc04a7.chunk.css.map",
+  "index.html": "/SUNRXS/index.html",
+  "precache-manifest.f167cd82b3e45feec97c098130f5a465.js": "/SUNRXS/precache-manifest.f167cd82b3e45feec97c098130f5a465.js",
+  "service-worker.js": "/SUNRXS/service-worker.js"
 }
