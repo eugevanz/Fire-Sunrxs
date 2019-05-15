@@ -1,7 +1,7 @@
 {
   "main.css": "/SUNRXS/static/css/main.59cc04a7.chunk.css",
-  "main.js": "/SUNRXS/static/js/main.fce65c75.chunk.js",
-  "main.js.map": "/SUNRXS/static/js/main.fce65c75.chunk.js.map",
+  "main.js": "/SUNRXS/static/js/main.882cef88.chunk.js",
+  "main.js.map": "/SUNRXS/static/js/main.882cef88.chunk.js.map",
   "static/css/1.162637eb.chunk.css": "/SUNRXS/static/css/1.162637eb.chunk.css",
   "static/js/1.690c9dac.chunk.js": "/SUNRXS/static/js/1.690c9dac.chunk.js",
   "static/js/1.690c9dac.chunk.js.map": "/SUNRXS/static/js/1.690c9dac.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.162637eb.chunk.css.map": "/SUNRXS/static/css/1.162637eb.chunk.css.map",
   "static/css/main.59cc04a7.chunk.css.map": "/SUNRXS/static/css/main.59cc04a7.chunk.css.map",
   "index.html": "/SUNRXS/index.html",
-  "precache-manifest.f167cd82b3e45feec97c098130f5a465.js": "/SUNRXS/precache-manifest.f167cd82b3e45feec97c098130f5a465.js",
+  "precache-manifest.4220f3bfc3cfa9fc29a832f9143fd023.js": "/SUNRXS/precache-manifest.4220f3bfc3cfa9fc29a832f9143fd023.js",
   "service-worker.js": "/SUNRXS/service-worker.js"
 }
