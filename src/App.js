@@ -1,28 +1,24 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useContext } from 'react';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import { UserContext } from "./Context";
+import Nav from "./Router/Nav";
+import Incidents from "./Router/RouteIncidents";
+import NewIncident from "./Router/RouteNewIncident/New_Inc";
+import Victory from './Router/RouteVictory/Victory';
+import Login from "./Login";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+export default () => {
+  const [user] = useContext(UserContext);
+  
+  return user ? (<Router>
+    <div>
+      <Nav/>
+      <div className="animated fadeInUp faster">
+        <Route exact path="/" strict component={Victory}/>
+        <Route exact path="/incidents/" strict component={Incidents}/>
+        <Route exact path="/new_incident/" strict component={NewIncident}/>
       </div>
-    );
-  }
-}
 
-export default App;
+    </div>
+  </Router>) : (<Login/>);
+};
